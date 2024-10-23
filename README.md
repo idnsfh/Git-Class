@@ -1,5 +1,5 @@
 # Git Class
 as a programmer, we should know the version control system!!!
 
-Gender : Female
+Gender: F
 Age:20
